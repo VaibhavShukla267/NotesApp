@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react"
 import Home from "./Home"
 import Update from "./Update"
@@ -15,6 +16,7 @@ function App(){
     <Routes>
       <Route path="/"element={<Home />}></Route>
       <Route path="/Create"element={<Create />}></Route>
+      <Route path="/Edit/:id"element={<Update />}></Route>
 
       </Routes>
       </BrowserRouter>
