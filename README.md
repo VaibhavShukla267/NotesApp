@@ -1,8 +1,19 @@
-# React + Vite
+Simple CRUD Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+A simple CRUD (Create, Read, Update, Delete) web application designed and implemented using React.js for the frontend and Redux Toolkit for state management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Create Items: Add new items to the list.
+Read Items: View and display a list of items.
+Update Items: Edit details of existing items.
+Delete Items: Remove items from the list.
+State Management: Efficiently handles application state using Redux Toolkit.
+User-friendly Interface: Built with React.js, providing a clean and intuitive UI.
+Tech Stack
+Frontend:
+React.js
+Redux Toolkit for state management  
+React Router for navigation (if applicable)
+Styling:
+CSS (or styled-components if used)
