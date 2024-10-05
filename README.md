@@ -1,4 +1,4 @@
-# Simple CRUD Web Application
+# Simple Notes Web Application
 
 A simple **CRUD (Create, Read, Update, Delete)** web application designed and implemented using **React.js** for the frontend and **Redux Toolkit** for state management.
 
@@ -30,7 +30,7 @@ Ensure you have **Node.js** installed on your system.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/crud-app.git
+git clone https://github.com/VaibhavShukla267/NotesApp.git
 cd crud-app
 
 Install Dependencies
